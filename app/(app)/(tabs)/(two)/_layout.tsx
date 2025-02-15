@@ -1,7 +1,7 @@
 import { Stack } from "expo-router/stack";
 
 export const unstable_settings = {
-  initialRouteName: "explore",
+  initialRouteName: "two",
 };
 
 export default function ExploreLayout() {
